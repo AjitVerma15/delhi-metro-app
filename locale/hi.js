@@ -1,0 +1,20 @@
+export const hindiTranslation = {
+  translation: {
+    name: 'नाम',
+    hello: 'नमस्ते',
+    goodMorning: 'शुभ प्रभात',
+    goodAfternoon: 'शुभ अपराह्न',
+    goodEvening: 'शुभ संध्या',
+    goodNight: 'शुभ रात्रि',
+    searchServices: 'सेवाएँ खोजें ...',
+    fare: 'किराया',
+    maps: 'मानचित्र',
+    routes: 'मार्ग',
+    first_last_metro: 'पहली/आखिरी मेट्रो',
+    parking: 'पार्किंग',
+    gates: 'गेट्स',
+    cardRecharge: 'कार्ड रिचार्ज',
+    aboutApp: 'अन्य जानकारी',
+    feedback: 'सुझाव',
+  },
+};

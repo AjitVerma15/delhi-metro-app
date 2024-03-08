@@ -1,0 +1,20 @@
+export const englishTranslation = {
+  translation: {
+    name: 'Name',
+    hello: 'Hello',
+    goodMorning: 'Good Morning',
+    goodAfternoon: 'Good Afternoon',
+    goodEvening: 'Good Evening',
+    goodNight: 'Good Night',
+    searchServices: 'Search Services ...',
+    fare: 'Fare',
+    maps: 'Maps',
+    routes: 'Routes',
+    first_last_metro: 'First/Last Metro',
+    parking: 'Parking',
+    gates: 'Gates',
+    cardRecharge: 'Card Rechange',
+    aboutApp: 'About',
+    feedback: 'Feedback',
+  },
+};
